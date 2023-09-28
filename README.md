@@ -1,5 +1,9 @@
 # Overview
+### Gamplay Screenshot
 
+![Gameplay screenshot](assets/img//gameplayscreenshot.png)
+
+### Description
 This project was made to learn about making games in C++.  It more or less follows this video: 
 
 https://www.youtube.com/watch?v=VLJlTaFvHo4
@@ -8,6 +12,7 @@ This project uses `raylib` ([docs](https://www.raylib.com/index.html))
 
 Downloading raylib instructions for MacOS are here:
 - https://github.com/raysan5/raylib/wiki/Working-on-macOS
+
 
 
 ## Running
